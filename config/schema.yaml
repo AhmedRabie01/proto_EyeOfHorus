@@ -1,0 +1,17 @@
+columns:
+  - metadata_cam_id: metadata.'cam_id'
+  - metadata_loc_id: metadata.'loc_id'
+  - metadata_pres_timestamp: metadata.'pres_timestamp'
+  - persons_age: persons[0].age
+  - persons_gender: persons[0].gender
+
+numerical_columns: []
+
+drop_columns:
+  - timestamp
+  - _id
+  - persons_embedding
+  - persons_track_3d
+  - persons_track_3d_0
+  - persons_xyxy_bbox
+  - persons_xyxy_bbox_0

@@ -1,0 +1,15 @@
+metadata_cam_id:
+  drift_status: false
+  p_value: 1.0
+metadata_loc_id:
+  drift_status: false
+  p_value: 1.0
+metadata_pres_timestamp:
+  drift_status: false
+  p_value: 0.586997662086479
+persons_age:
+  drift_status: false
+  p_value: 1.0
+persons_gender:
+  drift_status: false
+  p_value: 0.9999999298939768
